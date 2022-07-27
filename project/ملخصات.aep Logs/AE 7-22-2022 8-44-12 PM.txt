@@ -1,0 +1,8 @@
+  7/22/2022 8:44:12 PM: Starting composition “Render Long version”.
+
+  Output To: D:\it\ملخصات فيديو.avi    7/22/2022 8:46:14 PM: Finished composition “Render Long version”.
+
+
+  Total Time Elapsed: 2 Min, 2 Sec
+Log closed on 7/22/2022 at 8:46:14 PM
+
